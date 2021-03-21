@@ -14,6 +14,7 @@ All languages / technologies I'm using:
 - MySQL
 - Linux (Ubuntu dekstop and basics of Ubuntu server)
 - Basics of Selenium (testing django views)
+- Git + Github + basics of gitflow
 
 I also have a basic knowledge about Apache2, Daphne, Redis - I can setup basic environment for web application, but I can't fully understand them **yet**.
 
@@ -39,7 +40,9 @@ I'm currently working on notifications for:
 - [ ] adding user to friends list
 
 
-## Contact
-[website](https://cranky-archimedes-dd5cf7.netlify.app/) - It's a bit outdated, but I will update it soon.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n3rsti&repo=ToDoChat)](https://github.com/anuraghazra/github-readme-stats)
 
-[linkedin](https://www.linkedin.com/in/kwitucki/)
+## Contact
+[Website](https://cranky-archimedes-dd5cf7.netlify.app/) - It's a bit outdated, but I will update it soon.
+
+[Linkedin](https://www.linkedin.com/in/kwitucki/)
