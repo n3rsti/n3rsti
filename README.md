@@ -41,4 +41,5 @@ I'm currently working on notifications for:
 
 ## Contact
 [website](https://cranky-archimedes-dd5cf7.netlify.app/) - It's a bit outdated, but I will update it soon.
+
 [linkedin](https://www.linkedin.com/in/kwitucki/)
