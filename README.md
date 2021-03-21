@@ -49,7 +49,7 @@ I'm currently working on notifications for:
 
 ## Google Code-In
 I took part in last Google Code-In competition and finished 26 tasks.
-![GCI Certificate](https://github.com/n3rsti/n3rsti/blob/master/gci.png)
+<img src="https://github.com/n3rsti/n3rsti/blob/master/gci.png" alt="GCI Certificate">
 
 ## Contact
 [Website](https://cranky-archimedes-dd5cf7.netlify.app/) - It's a bit outdated, but I will update it soon.
