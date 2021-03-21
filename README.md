@@ -1,6 +1,6 @@
 ### Hi there, I'm **n3rsti** - Krzysztof Witucki. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n3rsti&show_icons=true&theme=dark)
+![n3rsti's GitHub stats](https://github-readme-stats.vercel.app/api?username=n3rsti&show_icons=true&theme=dark&count_private=true)
 
 ## Coding experience
 I've been coding for the last 2-3 years mainly in web technologies. I started with frontend so I have a basic knowledge about html, css, js. Basic means that I can easily create a full-responsive website using best practices which is also accessible. For the last year I've been focusing more on backend technologies. Main technologies I'm using are Python and Django, but creating web applications also taught me fundamentals of WebSockets and MySQL.
