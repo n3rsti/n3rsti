@@ -47,6 +47,10 @@ I'm currently working on notifications for:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n3rsti&repo=ToDoChat&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## Google Code-In
+I took part in last Google Code-In competition and finished 26 tasks.
+![GCI Certificate](https://github.com/n3rsti/n3rsti/blob/master/gci.png?raw=true)
+
 ## Contact
 [Website](https://cranky-archimedes-dd5cf7.netlify.app/) - It's a bit outdated, but I will update it soon.
 
