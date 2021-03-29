@@ -24,7 +24,7 @@ I'd also like to learn more about embedded systems:
 - C
 - Microcontrollers
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3rsti&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3rsti&layout=compact&theme=dark)]
 
 ## Projects
 I'm currently working on [ToDoChat](https://github.com/n3rsti/ToDoChat). I started this project about a year ago, but I've had a break from working on it so I've been working on it for a few months. In ToDoChat you can:
