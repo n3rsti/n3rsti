@@ -51,6 +51,10 @@ I'm currently working on notifications for:
 I took part in last Google Code-In competition and finished 26 tasks.
 <img src="https://raw.githubusercontent.com/n3rsti/n3rsti/main/gci.png" alt="GCI Certificate">
 
+## Languages
+* Polish - native
+* English - communicative
+
 ## Contact
 [Website](https://cranky-archimedes-dd5cf7.netlify.app/) - It's a bit outdated, but I will update it soon.
 
