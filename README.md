@@ -58,6 +58,6 @@ I took part in last Google Code-In competition and finished 26 tasks.
 * English - communicative
 
 ## Contact
-[Website](https://cranky-archimedes-dd5cf7.netlify.app/) - It's a bit outdated, but I will update it soon.
+[Website](https://cranky-archimedes-dd5cf7.netlify.app/)
 
 [Linkedin](https://www.linkedin.com/in/kwitucki/)
