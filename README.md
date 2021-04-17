@@ -43,7 +43,7 @@ I'm currently working on notifications for:
 - [ ] adding user to server
 - [x] adding user to friends list
 
-[Early test version for ToDoChat](tdchat.net) - Frontend is only made for mobile devices for now.
+[Early test version for ToDoChat](http://tdchat.net) - Frontend is only made for mobile devices for now.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n3rsti&repo=ToDoChat&theme=dark)](https://github.com/n3rsti/ToDoChat)
 
