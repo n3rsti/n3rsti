@@ -17,6 +17,8 @@ All languages / technologies I'm using:
 - Linux (Ubuntu dekstop and basics of Ubuntu server)
 - Basics of Selenium (testing django views)
 - Git + Github + basics of gitflow
+- Web Security basics
+- HTTP basics
 
 I also have a basic knowledge about Apache2, Daphne, Redis - I can setup basic environment for web application, but I can't fully understand them **yet**.
 
