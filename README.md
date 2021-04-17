@@ -41,7 +41,7 @@ I'm currently working on notifications for:
 - [x] private messages
 - [x] server messages
 - [ ] adding user to server
-- [ ] adding user to friends list
+- [x] adding user to friends list
 
 [Early test version for ToDoChat](tdchat.net) - Frontend is only made for mobile devices for now.
 
