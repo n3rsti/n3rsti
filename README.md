@@ -22,14 +22,15 @@ All languages / technologies I'm using:
 
 I also have a basic knowledge about Apache2, Daphne, Redis - I can setup basic environment for web application, but I can't fully understand them **yet**.
 
-I'd also like to learn more about embedded systems:
+I'm learning about:
 - C
-- Microcontrollers
+- C++
+- blockchain
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3rsti&layout=compact&theme=dark)]
 
 ## Projects
-I'm currently working on [ToDoChat](https://github.com/n3rsti/ToDoChat). I started this project about a year ago, but I've had a break from working on it so I've been working on it for a few months. In ToDoChat you can:
+My biggest project so far is [ToDoChat](https://github.com/n3rsti/ToDoChat). I started this project about a year ago, but I've had a break from working on it so I've been working on it for a few months. In ToDoChat you can:
 - Create user
 - Create servers, server channels
 - Add users to friends / servers
@@ -39,13 +40,9 @@ I'm currently working on [ToDoChat](https://github.com/n3rsti/ToDoChat). I start
 - Change task status
 - Add task comments
 
-I'm currently working on notifications for:
-- [x] private messages
-- [x] server messages
-- [ ] adding user to server
-- [x] adding user to friends list
+Not finished:
+- CSS for larger devices
 
-[Early test version for ToDoChat](http://tdchat.net) - Frontend is only made for mobile devices for now.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n3rsti&repo=ToDoChat&theme=dark)](https://github.com/n3rsti/ToDoChat)
 
