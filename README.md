@@ -1,4 +1,4 @@
-### Hi there, I'm **n3rsti** - Krzysztof Witucki. 
+### Hi there, I'm **n3rsti**. 
 
 ![n3rsti's GitHub stats](https://github-readme-stats.vercel.app/api?username=n3rsti&show_icons=true&theme=dark&count_private=true)
 
