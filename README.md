@@ -1,50 +1,79 @@
-### Hi there, I'm **n3rsti**. 
-
-![n3rsti's GitHub stats](https://github-readme-stats.vercel.app/api?username=n3rsti&show_icons=true&theme=dark&count_private=true)
+### n3rsti
 
 ## Coding experience
-I've been coding for the last 2-3 years mainly in web technologies. I started with frontend so I have a basic knowledge about html, css, js. Basic means that I can easily create a full-responsive website using best practices which is also accessible. For the last year I've been focusing more on backend technologies. Main technologies I'm using are Python and Django, but creating web applications also taught me fundamentals of WebSockets and MySQL.
+I've been coding for the last 4-5 years mainly in web technologies. I've created many non-commercial and a few commercial projects, mainly by myself, but I worked in teams as well.
 
-All languages / technologies I'm using:
-- HTML
-- CSS
-- Javascript
-- Bootstrap
+## Tech stack
+### Technologies I use every day
+- HTML, CSS, Javascript
+- Angular
+- Golang
+- SCSS
+- tailwind
+- mongoDB
+- Linux (Linux client as main OS, Linux server for hosting)
+- Git + Github, basics of gitflow
+
+### Technologies I've used and I'm comfortable with:
+- Java (Spring)
+- MySQL
+- bootstrap, bulma
 - Python
 - Django
-- WebSockets (using django-channels)
-- MySQL
-- Linux (Ubuntu dekstop and basics of Ubuntu server)
-- Basics of Selenium (testing django views)
-- Git + Github + basics of gitflow
-- Web Security basics
-- HTTP basics
 
-I also have a basic knowledge about Apache2, Daphne, Redis - I can setup basic environment for web application, but I can't fully understand them **yet**.
 
-I'm learning about:
-- C
-- C++
-- blockchain
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3rsti&layout=compact&theme=dark)]
+Working on web projects I also learned about HTTP and Web Security.
 
 ## Projects
-My biggest project so far is [ToDoChat](https://github.com/n3rsti/ToDoChat). I started this project about a year ago, but I've had a break from working on it so I've been working on it for a few months. In ToDoChat you can:
-- Create user
-- Create servers, server channels
-- Add users to friends / servers
-- Chat with friend in private channel
-- Chat with friends in server text-channel
+### [ToDoChat](https://github.com/n3rsti/ToDoChat)
+
+ToDoChat is a task management app with some additional features
+Features:
+- Creating user
+- Creating servers, server channels
+- Adding users to friends / servers
+- Chatting with friend in private or server text-channel
 - Create tasks (assign users, create deadline)
 - Change task status
 - Add task comments
 
-Not finished:
-- CSS for larger devices
+ToDoChat is created for mobile devices. You can use it on desktop as well, but styles are mainly done for mobile.
 
+Technologies:
+- HTML
+- SCSS
+- Javascript
+- Python
+- Django
+- Websockets (django-channels)
+- MySQL
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n3rsti&repo=ToDoChat&theme=dark)](https://github.com/n3rsti/ToDoChat)
+
+### NCloud
+
+Ncloud is a cloud drive service consisting of 2 projects: [ncloud-api](https://github.com/n3rsti/ncloud-api) and [ncloud-web](https://github.com/n3rsti/ncloud-web)
+
+Backend:
+- Golang
+- mongoDB
+
+Frontend:
+- Angular
+- SCSS
+- tailwindcss
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n3rsti&repo=ncloud-api&theme=dark)](https://github.com/n3rsti/ncloud-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n3rsti&repo=ncloud-web&theme=dark)](https://github.com/n3rsti/ncloud-web)
+
+
+### WIT
+WIT is a very basic social media app. It has basic features like creating users, posts, comments. It is not fully developed because I shifted my focus to **ncloud** development.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n3rsti&repo=Wit_API&theme=dark)](https://github.com/n3rsti/Wit_API)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n3rsti&repo=wit-frontend&theme=dark)](https://github.com/n3rsti/wit-frontend)
+
 
 ## Google Code-In
 I took part in last Google Code-In competition and finished 26 tasks.
