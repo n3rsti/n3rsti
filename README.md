@@ -56,7 +56,8 @@ Ncloud is a cloud drive service consisting of 2 projects: [ncloud-api](https://g
 
 Backend:
 - Golang
-- mongoDB
+- mongoDB (primary database)
+- meilisearch (search database)
 
 Frontend:
 - Angular
