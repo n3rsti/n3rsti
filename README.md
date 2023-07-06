@@ -13,6 +13,7 @@ I've been coding for the last 4-5 years mainly in web technologies. I've created
 - mongoDB
 - Linux (Linux client as main OS, Linux server for hosting)
 - Git + Github, basics of gitflow
+- Docker
 
 ### Technologies I've used and I'm comfortable with:
 - Java (Spring)
