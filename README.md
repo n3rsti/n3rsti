@@ -12,10 +12,10 @@ I've been coding for the last 4-5 years mainly in web technologies. I've created
 - tailwind
 - mongoDB
 - Linux (Linux client as main OS, Linux server for hosting)
-- Git + Github, basics of gitflow
+- Git
 - Docker
 
-### Technologies I've used and I'm comfortable with:
+### Technologies I've used before and I'm comfortable with:
 - Java (Spring)
 - MySQL
 - bootstrap, bulma
