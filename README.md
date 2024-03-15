@@ -1,7 +1,7 @@
 ### n3rsti
 
 ## Coding experience
-I've been coding for the last 4-5 years mainly in web technologies. I've created many non-commercial and a few commercial projects, mainly by myself, but I worked in teams as well.
+I've been coding for the last 5-6 years mainly in web technologies. I've created many non-commercial and a few commercial projects, mainly by myself, but I worked in teams as well.
 
 ## Tech stack
 ### Technologies I use every day
@@ -21,7 +21,6 @@ I've been coding for the last 4-5 years mainly in web technologies. I've created
 - bootstrap, bulma
 - Python
 - Django
-
 
 Working on web projects I also learned about HTTP and Web Security.
 
@@ -66,9 +65,18 @@ Frontend:
 ### WIT
 WIT is a very basic social media app. It has basic features like creating users, posts, comments. It is not fully developed because I shifted my focus to **ncloud** development.
 
+## Nbeat (Currently in development)
+I'm making an app for syncing music with your friends.
+
+Tech stack:
+- golang
+- mongodb
+- sveltekit
+
 ## Google Code-In
 I took part in last Google Code-In competition and finished 26 tasks.
-<img src="https://raw.githubusercontent.com/n3rsti/n3rsti/main/gci.png" alt="GCI Certificate">
+
+<img src="https://raw.githubusercontent.com/n3rsti/n3rsti/main/gci.png" alt="GCI Certificate" height="400" width="600" style="object-fit: cover;">
 
 ## Languages
 * Polish - native
