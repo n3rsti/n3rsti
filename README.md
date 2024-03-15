@@ -49,8 +49,6 @@ Technologies:
 - Websockets (django-channels)
 - MySQL
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n3rsti&repo=ToDoChat&theme=dark)](https://github.com/n3rsti/ToDoChat)
-
 ### NCloud
 
 Ncloud is a cloud drive service consisting of 2 projects: [ncloud-api](https://github.com/n3rsti/ncloud-api) and [ncloud-web](https://github.com/n3rsti/ncloud-web)
@@ -65,17 +63,8 @@ Frontend:
 - SCSS
 - tailwindcss
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n3rsti&repo=ncloud-api&theme=dark)](https://github.com/n3rsti/ncloud-api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n3rsti&repo=ncloud-web&theme=dark)](https://github.com/n3rsti/ncloud-web)
-
-
 ### WIT
 WIT is a very basic social media app. It has basic features like creating users, posts, comments. It is not fully developed because I shifted my focus to **ncloud** development.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n3rsti&repo=Wit_API&theme=dark)](https://github.com/n3rsti/Wit_API)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n3rsti&repo=wit-frontend&theme=dark)](https://github.com/n3rsti/wit-frontend)
-
 
 ## Google Code-In
 I took part in last Google Code-In competition and finished 26 tasks.
@@ -86,6 +75,4 @@ I took part in last Google Code-In competition and finished 26 tasks.
 * English - communicative
 
 ## Contact
-[Website](https://kwitucki.netlify.app/)
-
 [Linkedin](https://www.linkedin.com/in/kwitucki/)
