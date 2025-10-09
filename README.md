@@ -7,32 +7,19 @@ I've been programming for the last 6-7 years mainly in web technologies. I've cr
 I've worked with most of the mainstream technologies both for frontend and backend development, though my focus is around **Golang** and **Svelte**
 
 ## Projects
-### [ToDoChat](https://github.com/n3rsti/ToDoChat)
-
-ToDoChat is a task management app with some additional features
-Features:
-- Creating user
-- Creating servers, server channels
-- Adding users to friends / servers
-- Chatting with friend in private or server text-channel
-- Create tasks (assign users, create deadline)
-- Change task status
-- Add task comments
-
 ### NCloud
 
-Ncloud is a cloud drive service consisting of 2 projects: [ncloud-api](https://github.com/n3rsti/ncloud-api) and [ncloud-web](https://github.com/n3rsti/ncloud-web)
+Cloud drive service consisting of 2 projects: [ncloud-api](https://github.com/n3rsti/ncloud-api) and [ncloud-web](https://github.com/n3rsti/ncloud-web)
+
+### [ToDoChat](https://github.com/n3rsti/ToDoChat)
+
+Task management app with some additional features like group integration, chat and advanced management methods.
 
 ### WIT
 WIT is a very basic social media app. It has basic features like creating users, posts, comments. It is not fully developed because I shifted my focus to **ncloud** development.
 
 ## Nbeat
-I'm making an app for syncing music with your friends.
-
-Tech stack:
-- golang
-- mongodb
-- sveltekit
+App for syncing music with your friends.
 
 ## Google Code-In
 I took part in last Google Code-In competition and finished 26 tasks.
