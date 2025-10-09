@@ -1,28 +1,10 @@
 ### n3rsti
 
-## Coding experience
-I've been coding for the last 5-6 years mainly in web technologies. I've created many non-commercial and a few commercial projects, mainly by myself, but I worked in teams as well.
+## Experience
+I've been programming for the last 6-7 years mainly in web technologies. I've created many non-commercial and a few commercial projects, mainly by myself, but I worked in teams as well.
 
 ## Tech stack
-### Technologies I use every day
-- HTML, CSS, Javascript
-- Angular
-- Golang
-- SCSS
-- tailwind
-- mongoDB
-- Linux (Linux client as main OS, Linux server for hosting)
-- Git
-- Docker
-
-### Technologies I've used before and I'm comfortable with:
-- Java (Spring)
-- MySQL
-- bootstrap, bulma
-- Python
-- Django
-
-Working on web projects I also learned about HTTP and Web Security.
+I've worked with most of the mainstream technologies both for frontend and backend development, though my focus is around **Golang** and **Svelte**
 
 ## Projects
 ### [ToDoChat](https://github.com/n3rsti/ToDoChat)
@@ -37,35 +19,14 @@ Features:
 - Change task status
 - Add task comments
 
-ToDoChat is created for mobile devices. You can use it on desktop as well, but styles are mainly done for mobile.
-
-Technologies:
-- HTML
-- SCSS
-- Javascript
-- Python
-- Django
-- Websockets (django-channels)
-- MySQL
-
 ### NCloud
 
 Ncloud is a cloud drive service consisting of 2 projects: [ncloud-api](https://github.com/n3rsti/ncloud-api) and [ncloud-web](https://github.com/n3rsti/ncloud-web)
 
-Backend:
-- Golang
-- mongoDB (primary database)
-- meilisearch (search database)
-
-Frontend:
-- Angular
-- SCSS
-- tailwindcss
-
 ### WIT
 WIT is a very basic social media app. It has basic features like creating users, posts, comments. It is not fully developed because I shifted my focus to **ncloud** development.
 
-## Nbeat (Currently in development)
+## Nbeat
 I'm making an app for syncing music with your friends.
 
 Tech stack:
