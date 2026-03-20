@@ -4,7 +4,7 @@
 I've been programming for the last 7-8 years in various domains, but mostly in web technologies. I've created many non-commercial and a few commercial projects, mainly by myself, but I worked in teams as well. I am currently studying at Poznań University of Technology (3rd year).
 
 ## Tech stack
-I've worked with most of the mainstream technologies both for frontend and backend development, though my focus is around **Golang**, **Java**, **Nuxt** and **Svelte**. I also have experience with system administration through my homelab experiments including **Tailscale**, **Nextcloud**, **NixOS** and more.
+I've worked with a lot of the mainstream technologies both for frontend and backend development, though my focus is around **Golang**, **Java**, **Nuxt** and **Svelte**. I also have experience with system administration through my homelab experiments including **Tailscale**, **Nextcloud**, **NixOS** and more.
 
 ## Projects
 ### [Salus](https://github.com/n3rsti/salus)
