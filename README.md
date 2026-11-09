@@ -7,11 +7,12 @@ I'm currently studying Computer Science at Poznań University of Technology.
 ## Tech Stack
 
 - **Languages:** Go, Python, Java, Bash, TypeScript
-- **Backend:** Spring Boot, REST APIs, Docker
-- **Linux & Infrastructure:** Linux, NixOS, Nix Flakes, Home Manager, GitHub Actions, Tailscale, self-hosting
+- **Infrastructure & Linux:** NixOS, Nix Flakes, Docker, Tailscale, GitHub Actions
+- **Observability:** Prometheus, Grafana
+- **Backend:** FastAPI, Spring Boot, REST APIs
 - **Other experience:** Angular, Nuxt, Svelte, Camunda
 
-I'm currently exploring Kubernetes, observability, container internals, and cloud-native infrastructure.
+I'm currently exploring Kubernetes, container internals, and cloud-native infrastructure.
 
 ## Homelab & Infrastructure
 
