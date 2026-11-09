@@ -1,40 +1,56 @@
-### n3rsti
+Software Engineer interested in **Infrastructure, Platform Engineering, and Developer Tools**.
 
-## Experience
-I've been programming for the last 7-8 years in various domains, but mostly in web technologies. I've created many non-commercial and a few commercial projects, mainly by myself, but I worked in teams as well. I am currently studying at Poznań University of Technology (3rd year).
+I've been programming for around 8 years, working on personal, academic, and commercial projects. My professional experience is primarily in backend and full-stack development, but I'm particularly interested in Linux, infrastructure automation, systems programming, and understanding how software works under the hood.
 
-## Tech stack
-I've worked with a lot of the mainstream technologies both for frontend and backend development, though my focus is around **Golang**, **Java**, **Nuxt** and **Svelte**. I also have experience with system administration through my homelab experiments including **Tailscale**, **Nextcloud**, **NixOS** and more.
+I'm currently studying Computer Science at Poznań University of Technology.
 
-## Projects
-### [Salus](https://github.com/n3rsti/salus)
-Mental health and mindfulness platform - project done on Erasmus exchange in University of Zagreb
+## Tech Stack
 
-### [Ncloud](https://github.com/n3rsti/ncloud-web)
-Cloud drive service for images and documents
+- **Languages:** Go, Python, Java, Bash, TypeScript
+- **Backend:** Spring Boot, REST APIs, Docker
+- **Linux & Infrastructure:** Linux, NixOS, Nix Flakes, Home Manager, GitHub Actions, Tailscale, self-hosting
+- **Other experience:** Angular, Nuxt, Svelte, Camunda
 
-### [ToDoChat](https://github.com/n3rsti/ToDoChat)
-Task management app with some additional features like group integration, chat and advanced management methods.
+I'm currently exploring Kubernetes, observability, container internals, and cloud-native infrastructure.
 
-### [Nbeat](https://github.com/n3rsti/nbeat-web)
-App for syncing music with your friends.
+## Homelab & Infrastructure
 
-### [WIT](https://github.com/n3rsti/wit-frontend)
-Very basic social media app. It has basic features like creating users, posts, comments.
+I run and maintain my own Linux-based homelab with multiple NixOS machines and self-hosted services.
 
+My setup involves declarative system configuration, reusable infrastructure modules, networking, remote builds, build caching, backups, secrets management, and troubleshooting.
 
+I enjoy building and automating infrastructure, but I'm equally interested in the underlying systems and the tools used to manage them.
 
-<sub>... any many more</sub>
+### [nix-config](https://github.com/n3rsti/nix-config) — NixOS Infrastructure Configuration
 
+My multi-host NixOS and Home Manager configuration, built around reusable modules and declarative system management.
 
-## Certificates
-* Google Code-In 2019 competition. ([Certificate](gci.png))
-* Cisco CCNA Routing and Switching: Introduction to Networks
+Highlights:
+- Modular configuration for workstations, laptops, and servers
+- Nix Flakes and Home Manager
+- Remote builds and binary caching with Attic
+- GitHub Actions integration
+- SOPS-based secrets management
+- Tailscale networking
+- Self-hosted services, backups, and system automation
 
+## Selected Projects
 
-## Languages
-* Polish - native
-* English - communicative
+### [ncloud-api](https://github.com/n3rsti/ncloud-api) — Cloud Storage Backend
+
+A cloud storage API written in **Go**, developed as part of my Ncloud project.
+
+### [Salus](https://github.com/n3rsti/salus) — Team Software Project
+
+A mental health and mindfulness platform developed during an Erasmus exchange at the University of Zagreb.
+
+I've also worked on various other projects involving backend development, web applications, and self-hosted infrastructure.
+
+## Certifications
+
+- Google Code-in 2019 — [Certificate](gci.png)
+- Cisco CCNA Routing and Switching: Introduction to Networks
 
 ## Contact
-[Linkedin](https://www.linkedin.com/in/kwitucki/)
+
+[LinkedIn](https://www.linkedin.com/in/kwitucki/)
